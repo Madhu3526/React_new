@@ -1,0 +1,10 @@
+# Ignore node_modules
+Reactt/node_modules/
+
+# Ignore Python virtual env
+Backend/fastapi-env/
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
